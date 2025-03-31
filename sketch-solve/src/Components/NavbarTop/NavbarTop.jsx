@@ -8,7 +8,7 @@ export default function NavbarTop() {
       <div className="mx-auto max-w-7xl px-2 sm:px-6 lg:px-8">
         <div className="relative text-white text-2xl font-bold flex h-16 items-center justify-center">
 
-          Welcome To Draw and Solve
+          Welcome To SketchSolve
 
         </div>
       </div>
